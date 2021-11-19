@@ -1,0 +1,47 @@
+{
+  "name": "feature-viewer",
+  "description": "A lightweight, generic and easy-to-use feature-viewer written in javascript with D3",
+  "version": "1.0.5",
+  "homepage": "https://github.com/calipho-sib/feature-viewer",
+  "authors": [
+    "Mathieu Schaeffer <mat.schaeff@gmail.com>",
+    "Calipho Team <ndu@isb-sib.ch>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calipho-sib/feature-viewer.git"
+  },
+  "licenses": [
+    {
+      "type": "GNU GPL v2"
+    }
+  ],
+  "main": "index.js",
+  "scripts": {},
+  "prettier": {
+    "printWidth": 100,
+    "tabWidth": 2,
+    "useTabs": false,
+    "semi": false,
+    "bracketSpacing": true,
+    "singleQuote": true,
+    "trailingComma": "all"
+  },
+  "dependencies": {
+    "d3": "3.5.6",
+    "jquery": "x.x.x"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "sib",
+    "isb",
+    "calipho",
+    "feature",
+    "protein",
+    "nextprot",
+    "uniprot",
+    "viewer",
+    "biojs"
+  ],
+  "readmeFilename": "README.md"
+}
